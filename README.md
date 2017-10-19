@@ -20,7 +20,7 @@ Heute gab es ein paar kleine Änderungen im FrontEnd (in der Sandwich-Methode) :
    Da die hohe Anzahl an Video-Streams (in höchster Qualität) zur Verringerung
    der Bandbreite für Websockets geführt hat, haben wir diese zunächst herunter
    geschraubt, um allen Nutzern eine gute Usability zu ermöglichen.
-   
+
 2. __Enter bei Terminaleingabe__
 
    Ihr könnt jetzt oder in ganz kurzer Zeit auch ein Enter als Short-Cut für

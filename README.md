@@ -40,7 +40,9 @@ Heute gab es ein paar kleine Änderungen im FrontEnd (in der Sandwich-Methode) :
    arbeiten nicht so einfach zusammen, als dass das so einfach zu implementieren
    wäre (elm bootstrap-tabs und CodeMirror)...
 
-4. __Danke für die gemeldeten Issues__
+4. __Am Licht wird gearbeitet__
+
+5. __Danke für die gemeldeten Issues__
 
 
 ## eLabNews 18/10/17

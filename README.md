@@ -30,7 +30,7 @@ Heute gab es ein paar kleine Änderungen im FrontEnd (in der Sandwich-Methode) :
    (Fläschen-Hals) kommen kann. Habt also ein wenig Geduld und nutzt die
    serielle Ausgabe als Feedback für euch, wann euer Programm startet.
    _ Direkt auf dem Aurduino funktioniert leider auch nicht schneller. _
-   
+
    ___ Wichtig: Ändert nicht die Baud-Rate von Serial und Serial1 ___
 
 3. __Resizable Editor__

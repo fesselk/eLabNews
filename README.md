@@ -13,6 +13,20 @@ narrator: US English Female
 -->
 # eLabNews 19/10/17
 
+__Gcc Experimente__
+
+Falls ihr selber mit Bitshift-Operationen oder anderen C-Syntax-Elementen
+experimentieren wollt, die erstmal nicht zwingend einen Roboter benötigen,
+so könnt ihr auch selber Projekte anlegen.
+
+Einfach unter Projects auf __New-Project__ gehen und die __Gcc-Basic__ 
+Konfiguration auswählen. Das Terminal funktioniert wie bei Arduino, nur
+die Flashzeiten entfallen ;-)
+
+![Gcc Config](https://raw.githubusercontent.com/liaScript/eLabNews/master/gcc.gif)<!-- width: 100% -->
+
+## FrontEnd 19/10/17
+
 Heute gab es ein paar kleine Änderungen im FrontEnd (in der Sandwich-Methode) :
 
 1. __Streams wurden verkleinert__

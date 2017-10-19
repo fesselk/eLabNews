@@ -39,7 +39,7 @@ Heute gab es ein paar kleine Änderungen im FrontEnd (in der Sandwich-Methode) :
    Vergrößerung ist noch nicht möglich, die verwendeten JavaScript-Bibliotheken
    arbeiten nicht so einfach zusammen, als dass das so einfach zu implementieren
    wäre (elm bootstrap-tabs und CodeMirror)...
-   
+
 4. __Danke für die gemeldeten Issues__
 
 

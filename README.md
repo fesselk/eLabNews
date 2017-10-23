@@ -11,9 +11,31 @@ language: en_US
 narrator: US English Female
 
 -->
-# eLabNews 19/10/17
+# eLabNews 23/10/17
 
-__Gcc Experimente__
+___ Markdown-Updates ___
+
+Eure Einstellungen bezüglich des Aussehens, der Sprachausgabe, etc.
+werden jetzt lokal bei euch im Browser gespeichert, sodass ihr nicht
+immer auf die letzte Seite springen müsst oder die Sprachausgabe
+ausschaltet.
+
+__ Merke: __ Die Sprachausgabe kann ausgeschaltet werden, einfach auf
+das Ohr-Symbol in der Navigationsleiste klicken und ihr wechselt in
+den (nicht so coolen) Lesemodus ...
+
+___ Compiler-Output ___
+
+Warnings, etc. wurde heraufgesetzt und der Compiler-Output wird euch
+in der Konsole ausgegeben.
+
+![Gcc Config](https://raw.githubusercontent.com/liaScript/eLabNews/master/compiler_output.gif)<!-- width: 100% -->
+
+__ Merke: __ Ihr könnt jetzt nur noch Terminal-Eingaben machen, wenn
+Ihr ein Programm ausführt, sonst ist die Eingabe deaktiviert, also nicht
+wundern ;-)
+
+## Gcc Experimente 19/10/17
 
 Falls ihr selber mit Bitshift-Operationen oder anderen C-Syntax-Elementen
 experimentieren wollt, die erstmal nicht zwingend einen Roboter benötigen,

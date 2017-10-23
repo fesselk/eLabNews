@@ -13,7 +13,7 @@ narrator: US English Female
 -->
 # eLabNews 23/10/17
 
-___ Markdown-Updates ___
+__ Markdown-Updates __
 
 Eure Einstellungen bezüglich des Aussehens, der Sprachausgabe, etc.
 werden jetzt lokal bei euch im Browser gespeichert, sodass ihr nicht
@@ -24,7 +24,7 @@ __ Merke: __ Die Sprachausgabe kann ausgeschaltet werden, einfach auf
 das Ohr-Symbol in der Navigationsleiste klicken und ihr wechselt in
 den (nicht so coolen) Lesemodus ...
 
-___ Compiler-Output ___
+__ Compiler-Output __
 
 Warnings, etc. wurde heraufgesetzt und der Compiler-Output wird euch
 in der Konsole ausgegeben.

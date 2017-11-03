@@ -31,6 +31,7 @@ Quizzen ein kleines Ausrufezeichen oder Fragezeichen, auf die geklickt
 werden kann. Dabei handelt es sich um zusätzliche Hilfen, das Fragezeichen
 wird euch Tipps/Hilfen ausgeben und das Ausrufezeichen die Aufösung.
 Versucht also zunächst die Fragen eigenständig zu beantworten.
+
 *(Wie gesagt, es soll euch nur zur Kontrolle des eigenen Wissens dienen.)*
 
 ** Download und Upload Files **

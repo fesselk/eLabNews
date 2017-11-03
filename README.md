@@ -43,7 +43,7 @@ und diesen auch wieder herzustellen.
 *Merke: Der Inhalt aller Dateien wird dabei mit dem aus dem hochgeladenen*
 *Projekt überschrieben und eine neue Revision angelegt ...*
 
-## Markdown & gcc 23/10/17
+## 23/10/17 Markdown & gcc
 
 __ Markdown-Updates __
 
@@ -67,7 +67,7 @@ __ Merke: __ Ihr könnt jetzt nur noch Terminal-Eingaben machen, wenn
 Ihr ein Programm ausführt, sonst ist die Eingabe deaktiviert, also nicht
 wundern ;-)
 
-## Gcc Experimente 19/10/17
+## 19/10/17 Gcc Experimente
 
 Falls ihr selber mit Bitshift-Operationen oder anderen C-Syntax-Elementen
 experimentieren wollt, die erstmal nicht zwingend einen Roboter benötigen,
@@ -79,7 +79,7 @@ die Flashzeiten entfallen ;-)
 
 ![Gcc Config](https://raw.githubusercontent.com/liaScript/eLabNews/master/gcc.gif)<!-- width: 100% -->
 
-## FrontEnd 19/10/17
+## 19/10/17 FrontEnd
 
 Heute gab es ein paar kleine Änderungen im FrontEnd (in der Sandwich-Methode) :
 
@@ -113,7 +113,7 @@ Heute gab es ein paar kleine Änderungen im FrontEnd (in der Sandwich-Methode) :
 5. __Danke für die gemeldeten Issues__
 
 
-## eLabNews 18/10/17
+## 18/10/17 eLabNews
 
 Aller Anfang ist schwer, deshalb haben wir uns entschieden euch auf diesem Wege
 über Neuerungen und Bugfixes am System zu informieren ...

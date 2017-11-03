@@ -11,7 +11,38 @@ language: en_US
 narrator: US English Female
 
 -->
-# eLabNews 23/10/17
+# eLabNews 03/11/17
+
+** It\'s not a Bug, it\'s a feature **
+
+Naja, vielleicht war einer doch ein Bug ;-). Falls es bei einigen von
+euch zu Problemen bei der Konsoleneingabe kam, sprich diese war gesperrt
+obwohl das Programm erfolgreich geflashed wurde? Dabei handelte es sich
+bedauerlicherweise um ein Kommunikationsproblem auf der der Serverseite,
+welches nur auftritt, wenn der Flash-Vorgang länger als 10 Sekunden dauert.
+Dabei wurde ein Ack für die gelungene Übertragung eures Codes von einem
+vorhergehenden Ping (Keep-Alive) verdrängt. Dieser Fehler müsste aber jetzt
+behoben sein.
+
+** Quizze **
+
+Wie einige vielleicht schon bemerkt haben, so gibt es manchmal neben
+Quizzen ein kleines Ausrufezeichen oder Fragezeichen, auf die geklickt
+werden kann. Dabei handelt es sich um zusätzliche Hilfen, das Fragezeichen
+wird euch Tipps/Hilfen ausgeben und das Ausrufezeichen die Aufösung.
+Versucht also zunächst die Fragen eigenständig zu beantworten.
+*(Wie gesagt, es soll euch nur zur Kontrolle des eigenen Wissens dienen.)*
+
+** Download und Upload Files **
+
+Vielleicht habt ihr diese Option im Editor schon bemerkt. Dabei handelt
+es sich nur um eine einfache Möglichkeit euren Projektstatus zu sichern
+und diesen auch wieder herzustellen.
+
+*Merke: Der Inhalt aller Dateien wird dabei mit dem aus dem hochgeladenen*
+*Projekt überschrieben und eine neue Revision angelegt ...*
+
+## Markdown & gcc 23/10/17
 
 __ Markdown-Updates __
 

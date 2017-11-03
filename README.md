@@ -13,7 +13,7 @@ narrator: US English Female
 -->
 # eLabNews 03/11/17
 
-** It\'s not a Bug, it\'s a feature **
+** It's not a Bug, it's a feature **
 
 Naja, vielleicht war einer doch ein Bug ;-). Falls es bei einigen von
 euch zu Problemen bei der Konsoleneingabe kam, sprich diese war gesperrt
